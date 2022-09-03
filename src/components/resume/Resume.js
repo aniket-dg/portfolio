@@ -27,6 +27,26 @@ export class Resume extends Component {
 
                 <h3 className="resume-title">Experience</h3>
                 <div className="resume-item">
+                  <h4>Noovosoft</h4>
+                  <h5>Sep 2022 - Present</h5>
+                  <p><em>Pune, Maharashtra</em></p>
+                  <ul>
+                    {/* <li> */}
+                      {/* Managing Backend of Application on AWS EC2 instance and <b>making application more efficient</b> by efficient data fetching, <b>increasing user experience</b> */}
+                    {/* </li> */}
+                  </ul>
+                </div>
+                <div className="resume-item">
+                  <h4>D'n'D Rodhak</h4>
+                  <h5>Jul 2022 - Aug 2022</h5>
+                  <p><em>Mandi, Himachal Pradesh</em></p>
+                  <ul>
+                    <li>
+                      Managing Backend of Application on AWS EC2 instance and <b>making application more efficient</b> by efficient data fetching, <b>increasing user experience</b>
+                    </li>
+                  </ul>
+                </div>
+                <div className="resume-item">
                   <h4>Siteguide Pvt. Ltd.</h4>
                   <h5>April 2021 - Jun 2022</h5>
                   <p><em>Jalgaon, Maharashtra</em></p>
@@ -46,16 +66,7 @@ export class Resume extends Component {
                   </ul>
 
                 </div>
-                <div className="resume-item">
-                  <h4>D'n'D Rodhak</h4>
-                  <h5>Jul 2022 - Present</h5>
-                  <p><em>Mandi, Himachal Pradesh</em></p>
-                  <ul>
-                    <li>
-                      Managing Backend of Application on AWS EC2 instance and <b>making application more efficient</b> by efficient data fetching, <b>increasing user experience</b>
-                    </li>
-                  </ul>
-                </div>
+                
 
                 <h3 className="resume-title">Education</h3>
                 <div className="resume-item">
@@ -171,9 +182,9 @@ export class Resume extends Component {
                   <h5>2021 - Current</h5>
                   {/* <p><em>Mindquisitive Hackathon among <b>75+ groups</b></em></p> */}
                   <ul>
-                    <li>Currently solved 200+ problems</li>
-                    <li>Golbal Rank - 221,847</li>
-                    <li>Highest Contest Rating - 1497</li>
+                    <li>Currently solved 245+ problems</li>
+                    <li>Golbal Rank - 188,149</li>
+                    <li>Highest Contest Rating - 1452</li>
                     <li>Top - 62.16 %</li>
                   </ul>
                 </div>
